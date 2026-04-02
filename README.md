@@ -605,6 +605,4 @@ MIT License
 
 # Author
 
-**Austin Smith**
-Information Technology
-Southern New Hampshire University
+Austin Smith – Information Technology – Southern New Hampshire University
