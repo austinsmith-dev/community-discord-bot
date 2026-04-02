@@ -1,0 +1,5 @@
+{
+  "moderationWords": [
+    "this", "will", "be", "removed", "\b[A-Z][a-z]+\b"
+    ]
+  }

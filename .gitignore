@@ -1,0 +1,9 @@
+.env
+/node_modules
+/assets/christmas
+/assets/lofi
+/assets/minecraft
+/assets/ncs
+/assets/wgm
+package-lock.json
+/src/automod.json
